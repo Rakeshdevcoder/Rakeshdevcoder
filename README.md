@@ -4,9 +4,8 @@
 # 📊 Leetcode:
 ![](https://leetcard.jacoblin.cool/rakeshrathod?ext=contest)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
