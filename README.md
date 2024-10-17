@@ -5,7 +5,8 @@
 ![](https://leetcard.jacoblin.cool/rakeshrathod?ext=contest)
 
 # ✍️ Quote
-![](https://api.quotable.io/random?size=medium)
+![](https://goquotes-api.herokuapp.com/api/v1/random?format=img&type=dark)
+
 
 
 
