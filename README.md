@@ -4,7 +4,7 @@
 # 📊 Leetcode:
 ![](https://leetcard.jacoblin.cool/rakeshrathod?ext=contest)
 
-### ✍️ Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
