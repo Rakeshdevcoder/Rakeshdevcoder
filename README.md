@@ -5,7 +5,8 @@
 ![](https://leetcard.jacoblin.cool/rakeshrathod?ext=contest)
 
 # ✍️ Quote
-![](https://quotes.rest/qod?language=en&category=inspire)
+![](https://api.quotable.io/random?size=medium)
+
 
 
 
