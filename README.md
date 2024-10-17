@@ -5,7 +5,8 @@
 ![](https://leetcard.jacoblin.cool/rakeshrathod?ext=contest)
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://zenquotes.io/api/image)
+
 
 
 
