@@ -4,8 +4,7 @@
 # 📊 Leetcode
 ![](https://leetcard.jacoblin.cool/rakeshrathod?border=0&radius=20)
 
-# ✍️ Quote
-![](https://api.quotable.io/random?size=medium)
+
 
 
 
